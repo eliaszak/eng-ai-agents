@@ -1,2 +1,2 @@
-This is the folder where you need to store your assignments for submission. Create directories such as `assignment-1` etc. 
+# my computer is too weak and I was unable to rye sync due to NVDIA being on my laptop so I just worked on google collab
 
