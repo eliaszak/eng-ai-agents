@@ -1,0 +1,9 @@
+pymongo
+requests
+beautifulsoup4
+youtube_transcript_api
+clearml
+transformers
+torch
+qdrant-client
+
